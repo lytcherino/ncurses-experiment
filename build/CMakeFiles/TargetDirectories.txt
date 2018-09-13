@@ -1,0 +1,3 @@
+/home/lytchier/Documents/C++/NCursesTest/build/CMakeFiles/rebuild_cache.dir
+/home/lytchier/Documents/C++/NCursesTest/build/CMakeFiles/edit_cache.dir
+/home/lytchier/Documents/C++/NCursesTest/build/CMakeFiles/pro.dir
